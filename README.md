@@ -1,0 +1,1 @@
+An Online Quiz Platform in Java is a program that allows users to take a quiz, answer questions, and receive a score at the end. The platform can include features such as multiple-choice questions, score tracking, and even a time limit.
